@@ -30,16 +30,6 @@ The BitcoinSMA9TradingSimulator is a Python tool for simulating a Bitcoin tradin
 ## Disclaimer
 This tool is for educational purposes only. Past performance is not indicative of future results. It does not account for transaction fees, slippage, or other real-world trading factors.
 
-## Authors
-[Your Name]
-
-## Version History
-* 0.1
-  * Initial Release
-
-## License
-This project is licensed under the [License Name] - see the LICENSE.md file for details
-
 ## Acknowledgments
 Inspiration, code snippets, etc.
 * [yfinance](https://pypi.org/project/yfinance/)
